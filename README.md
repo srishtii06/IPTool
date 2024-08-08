@@ -1,4 +1,4 @@
-# IP_Tool
+# IP Tool
 This Python script performs various checks on IP addresses, including identifying whether they are public or private, checking if they are VPN/Proxy IPs, and fetching IP address details from an external API.
 
 # Features
