@@ -11,5 +11,7 @@ This Python script performs various checks on IP addresses, including identifyin
 **GUI**: Has an interactive user interface.
 
 # Requirements
-1. Python 3.x
-2. requests library (for making HTTP requests)
+Before running the IP Analysis Tool, ensure you have the following dependencies installed:
+
+```bash
+pip install -r requirements.txt
