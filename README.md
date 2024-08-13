@@ -22,7 +22,7 @@ If you're using a different platform, you can run the tool by following these st
    
 
 # Requirements
-Before running the IP Analysis Tool, ensure you have the following dependencies installed:\
+Before running the IP Analysis Tool, ensure you have the following dependencies installed:
 
 1. **Clone the repository**:
 ```bash
