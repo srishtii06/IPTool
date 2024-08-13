@@ -24,28 +24,28 @@ If you're using a different platform, you can run the tool by following these st
 # Requirements
 Before running the IP Analysis Tool, ensure you have the following dependencies installed:\
 
-1. Clone the repository:
+1. **Clone the repository**:
 ```bash
 git clone https://github.com/srishtii06/IPAnalysisTool.git
 ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
 ```bash
 cd IPAnalysisTool
 ```
 
-3. Set up the virtual environment (optional but recommended):
+3. **Set up the virtual environment (optional but recommended)**:
 ```bash
 python -m venv envIP
 source envIP/bin/activate   #On Windows use `envIP\Scripts\activate`
 ```
 
-4. Install dependencies:
+4. **Install dependencies**:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Run the tool:
+5. **Run the tool**:
 ```bash
 python IPAnalysisTool.py
 ```
