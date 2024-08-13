@@ -22,41 +22,41 @@ If you're using a different platform, you can run the tool by following these st
    
 
 # Requirements
-Before running the IP Analysis Tool, ensure you have the following dependencies installed:
+Before running the IP Analysis Tool, ensure you have the following dependencies installed:\
 
-1. Clone the repository:
+1. Clone the repository:\
 git clone https://github.com/srishtii06/IPAnalysisTool.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory:\
 cd IPAnalysisTool
 
-3. Set up the virtual environment (optional but recommended):
-python -m venv envIP
-source envIP/bin/activate  # On Windows use `envIP\Scripts\activate`
+3. Set up the virtual environment (optional but recommended):\
+python -m venv envIP\
+source envIP/bin/activate   # On Windows use `envIP\Scripts\activate`
 
-4. Install dependencies:
+4. Install dependencies:\
 pip install -r requirements.txt
 
-5. Run the tool:
+5. Run the tool:\
 python IPAnalysisTool.py
 
 # How to Use
-**Running the Executable**: For Windows users, simply double-click the .exe file found in the dist directory.
-**Running from Source**: If you're running from source, follow the installation steps above, then execute IPAnalysisTool.py using Python.
+**Running the Executable**: For Windows users, simply double-click the .exe file found in the dist directory.\
+**Running from Source**: If you're running from source, follow the installation steps above, then execute IPAnalysisTool.py using Python.\
 
 # Data Directory
 The data/ directory contains files that the tool may use during its analysis. Ensure this directory is present in the project root when running the tool.
 
 # Building from Source
-To rebuild the .exe or modify the tool:
+To rebuild the .exe or modify the tool:\
 
 1. Ensure all dependencies are installed using the requirements.txt file.
 2. Modify the IPAnalysisTool.spec file if necessary.
-3. Build the executable:
+3. Build the executable:\
    pyinstaller IPAnalysisTool.spec
 
 # Contributing
-Contributions are welcome! Please fork the repository and submit a pull request or open an issue for any bug reports or feature requests.
+Contributions are welcome! Please fork the repository and submit a pull request or open an issue for any bug reports or feature requests.\
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
