@@ -27,23 +27,28 @@ Before running the IP Analysis Tool, ensure you have the following dependencies 
 1. Clone the repository:
 ```bash
 git clone https://github.com/srishtii06/IPAnalysisTool.git
+```
 
 2. Navigate to the project directory:
 ```bash
 cd IPAnalysisTool
+```
 
 3. Set up the virtual environment (optional but recommended):
 ```bash
 python -m venv envIP
 source envIP/bin/activate   #On Windows use `envIP\Scripts\activate`
+```
 
 4. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 5. Run the tool:
 ```bash
 python IPAnalysisTool.py
+```
 
 # How to Use
 **Running the Executable**: For Windows users, simply double-click the .exe file found in the dist directory.\
@@ -60,6 +65,7 @@ To rebuild the .exe or modify the tool:\
 3. Build the executable:
 ```bash
    pyinstaller IPAnalysisTool.spec
+```
 
 # Contributing
 Contributions are welcome! Please fork the repository and submit a pull request or open an issue for any bug reports or feature requests.\
