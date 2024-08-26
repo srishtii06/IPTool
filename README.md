@@ -52,7 +52,7 @@ python IPAnalysisTool.py
 
 # How to Use
 **Running the Executable**: For Windows users, simply double-click the .exe file found in the dist directory.\
-**Running from Source**: If you're running from source, follow the installation steps above, then execute IPAnalysisTool.py using Python.\
+**Running from Source**: If you're running from source, follow the installation steps above, then execute IPAnalysisTool.py using Python.
 
 # Data Directory
 The data/ directory contains files that the tool may use during its analysis. Ensure this directory is present in the project root when running the tool.
