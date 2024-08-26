@@ -58,7 +58,7 @@ python IPAnalysisTool.py
 The data/ directory contains files that the tool may use during its analysis. Ensure this directory is present in the project root when running the tool.
 
 # Building from Source
-To rebuild the .exe or modify the tool:\
+To rebuild the .exe or modify the tool:
 
 1. Ensure all dependencies are installed using the requirements.txt file.
 2. Modify the IPAnalysisTool.spec file if necessary.
