@@ -68,7 +68,7 @@ To rebuild the .exe or modify the tool:\
 ```
 
 # Contributing
-Contributions are welcome! Please fork the repository and submit a pull request or open an issue for any bug reports or feature requests.\
+Contributions are welcome! Please fork the repository and submit a pull request or open an issue for any bug reports or feature requests.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
