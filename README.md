@@ -26,7 +26,7 @@ Before running the IP Analysis Tool, ensure you have the following dependencies 
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/srishtii06/IPAnalysisTool.git
+git clone https://github.com/srishtii06/IPTool.git
 ```
 
 2. **Navigate to the project directory**:
